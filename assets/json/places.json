@@ -1,0 +1,49 @@
+{
+   "places" : [
+        {
+            "name": "London",
+            "address": "United Kingdom",
+            "picture": "Assets/Images/JPG/london.jpg"
+        },
+        {
+            "name": "Bali",
+            "address": "Indonesia",
+            "picture": "Assets/Images/JPG/bali.jpg"
+        },
+        {
+            "name": "Berlin",
+            "address": "Germany",
+            "picture": "Assets/Images/JPG/berlin.jpg"
+        },
+        {
+            "name": "Milan",
+            "address": "Italy",
+            "picture": "Assets/Images/JPG/rome.jpg"
+        },
+        {
+            "name": "Hawaii",
+            "address": "United States",
+            "picture": "Assets/Images/JPG/hawaii.jpg"
+        },
+        {
+            "name": "Paris",
+            "address": "France",
+            "picture": "Assets/Images/JPG/paris.jpg"
+        },
+        {
+            "name": "Tokyo",
+            "address": "Japan",
+            "picture": "Assets/Images/JPG/tokyo.jpg"
+        },
+        {
+            "name": "Lisbon",
+            "address": "Portugal",
+            "picture": "Assets/Images/JPG/portugal.jpg"
+        },
+        {
+            "name": "Dubai",
+            "address": "United Arab Emirates",
+            "picture": "Assets/Images/JPG/dubai.jpg"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92153432075",
+    "project_id": "total-fillup",
+    "storage_bucket": "total-fillup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92153432075:android:9f1d80c540f069fe729f0e",
+        "android_client_info": {
+          "package_name": "com.TotalLoadUp.total_load_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92153432075-b12q818fv9bdv2ngtrh60f3l6r313soo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gJtDeZ7cmZijojrWCxSa_jbxZsnfafw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92153432075-b12q818fv9bdv2ngtrh60f3l6r313soo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
