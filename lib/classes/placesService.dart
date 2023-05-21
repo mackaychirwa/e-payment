@@ -5,8 +5,8 @@ import 'dart:convert' as convert;
 import 'package:total_load_up/classes/placeSearch.dart';
 
 class PlacesService {
-  // final apikey = 'AIzaSyCo_mwB62_uTYBvyjVGuhYcMkgHIAurZmc';
-  final apikey = 'AIzaSyD6gJtDeZ7cmZijojrWCxSa_jbxZsnfafw';
+  
+  final apikey = '';
   Future<List<PlaceSearch>> getAutocomplete(String search) async {
     var url =
         'https://maps.googleapis.com/maps/api/place/autocomplete/json?input=$search&types=(cities)&key=$apikey';
